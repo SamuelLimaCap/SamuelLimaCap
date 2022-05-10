@@ -1,6 +1,6 @@
 ---
 [![Samuel's Github status](https://github-readme-stats.vercel.app/api?username=samuellimacap&show_icons=true&theme=radical)](https://github.com/samuellimacap/github-readme-stats)
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=samuellimacap&langs_count=3)
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=samuellimacap&langs_count=3&theme=radical)
 
 ---
 ### Stack mais utilizada
