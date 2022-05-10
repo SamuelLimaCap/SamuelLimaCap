@@ -1,7 +1,8 @@
+---
 [![Samuel's Github status](https://github-readme-stats.vercel.app/api?username=samuellimacap&show_icons=true&theme=radical)](https://github.com/samuellimacap/github-readme-stats)
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=samuellimacap&langs_count=3)
 
-[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=samuellimacap)](https://github.com/samuellimacap/github-readme-stats)
-
+---
 ### Stack mais utilizada
 ![Java](https://img.shields.io/badge/java-6DA55F?style=for-the-badge&logo=java&logoColor=white&color=red)
 ![Kotlin](https://img.shields.io/badge/kotlin-6DA55F?style=for-the-badge&logo=kotlin&logoColor=white&color=purple)
